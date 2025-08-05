@@ -1,0 +1,62 @@
+[
+  {
+    "id": "coding-01",
+    "role": "user",
+    "content": "Write a Python function that takes a list of integers and returns the two numbers that add up to a specific target sum. Include error handling for edge cases."
+  },
+  {
+    "id": "coding-02",
+    "role": "user",
+    "content": "Debug this JavaScript code and explain what's wrong: ```javascript\nfunction calculateAverage(nums) {\n    let sum = 0;\n    for (let i = 0; i <= nums.length; i++) {\n        sum += nums[i];\n    }\n    return sum / nums.length;\n}\n```"
+  },
+  {
+    "id": "coding-03",
+    "role": "user",
+    "content": "Create a SQL query to find the top 3 customers by total purchase amount from tables 'customers' (id, name) and 'orders' (customer_id, amount, order_date)."
+  },
+  {
+    "id": "coding-04",
+    "role": "user",
+    "content": "Write a recursive function in Python to calculate the nth Fibonacci number. Also provide an iterative version and compare their time complexities."
+  },
+  {
+    "id": "coding-05",
+    "role": "user",
+    "content": "Implement a simple binary search algorithm in your preferred programming language. Include comments explaining each step."
+  },
+  {
+    "id": "coding-06",
+    "role": "user",
+    "content": "Create a Python class for a basic bank account with methods for deposit, withdraw, and check balance. Include appropriate error handling."
+  },
+  {
+    "id": "coding-07",
+    "role": "user",
+    "content": "Write a function that reverses the words in a sentence while keeping the word order intact. For example: 'hello world' becomes 'olleh dlrow'."
+  },
+  {
+    "id": "coding-08",
+    "role": "user",
+    "content": "Explain what this regex pattern does and provide 3 example strings that would match: `^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$`"
+  },
+  {
+    "id": "coding-09",
+    "role": "user",
+    "content": "Write a function to determine if a given string is a valid palindrome, ignoring spaces, punctuation, and case. Provide both recursive and iterative solutions."
+  },
+  {
+    "id": "coding-10",
+    "role": "user",
+    "content": "Create a Python decorator that measures and prints the execution time of any function it decorates."
+  },
+  {
+    "id": "coding-11",
+    "role": "user",
+    "content": "Write a function that finds the longest common subsequence between two strings. Explain the algorithm's approach."
+  },
+  {
+    "id": "coding-12",
+    "role": "user",
+    "content": "Debug this Python code that's supposed to remove duplicates from a list while preserving order: ```python\ndef remove_duplicates(lst):\n    return list(set(lst))\n```"
+  }
+]

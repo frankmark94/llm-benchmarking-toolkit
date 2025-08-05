@@ -1,0 +1,62 @@
+[
+  {
+    "id": "creative-01",
+    "role": "user",
+    "content": "Write a short story (200-300 words) about a time traveler who accidentally changes something small in the past and returns to find an unexpected consequence in the present."
+  },
+  {
+    "id": "creative-02",
+    "role": "user",
+    "content": "Create a dialogue between a wise old tree and a curious child who discovers they can communicate with plants."
+  },
+  {
+    "id": "creative-03",
+    "role": "user",
+    "content": "Write a poem about the last bookstore on Earth, written in the style of a sonnet."
+  },
+  {
+    "id": "creative-04",
+    "role": "user",
+    "content": "Describe a day in the life of a superhero whose power is to make people feel genuinely happy, but only for exactly 5 minutes at a time."
+  },
+  {
+    "id": "creative-05",
+    "role": "user",
+    "content": "Create an opening paragraph for a mystery novel where the detective realizes their own reflection is missing from mirrors."
+  },
+  {
+    "id": "creative-06",
+    "role": "user",
+    "content": "Write a restaurant review for a fictional restaurant that serves memories as dishes. Be specific about the 'flavors' and 'presentation.'"
+  },
+  {
+    "id": "creative-07",
+    "role": "user",
+    "content": "Compose a letter from a house to its family who is moving away after 20 years."
+  },
+  {
+    "id": "creative-08",
+    "role": "user",
+    "content": "Create a short story about two people who meet in the lost and found department of an airport, both looking for something completely different than what they find."
+  },
+  {
+    "id": "creative-09",
+    "role": "user",
+    "content": "Write a product description for a magical item: boots that let you walk on any surface as if it were solid ground (water, air, etc.)."
+  },
+  {
+    "id": "creative-10",
+    "role": "user",
+    "content": "Create a monologue from the perspective of the last star in the universe, just before it goes out."
+  },
+  {
+    "id": "creative-11",
+    "role": "user",
+    "content": "Write a conversation between colors arguing about which one is most important to humanity."
+  },
+  {
+    "id": "creative-12",
+    "role": "user",
+    "content": "Describe a world where music has physical properties - different genres create different weather patterns. Write about someone experiencing their first jazz rainstorm."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "instruction-01",
+    "role": "user",
+    "content": "Summarize the following text in exactly 3 sentences: Climate change is one of the most pressing issues of our time. Rising global temperatures are causing ice caps to melt, sea levels to rise, and weather patterns to become more extreme. Scientists agree that human activities, particularly the burning of fossil fuels, are the primary drivers of these changes. Governments and organizations worldwide are working to implement policies and technologies to reduce greenhouse gas emissions and mitigate the effects of climate change."
+  },
+  {
+    "id": "instruction-02",
+    "role": "user",
+    "content": "Translate the following English phrase into French, Spanish, and German: 'The quick brown fox jumps over the lazy dog.'"
+  },
+  {
+    "id": "instruction-03",
+    "role": "user",
+    "content": "Convert the following unstructured data into a properly formatted JSON object: Name: Sarah Johnson, Age: 28, Job: Software Engineer, City: San Francisco, Hobbies: reading, hiking, photography"
+  },
+  {
+    "id": "instruction-04",
+    "role": "user",
+    "content": "Create a numbered list of the top 5 benefits of regular exercise, keeping each point to one sentence."
+  },
+  {
+    "id": "instruction-05",
+    "role": "user",
+    "content": "Rewrite this email to be more professional and concise: 'Hey there! Hope you're doing well. I was wondering if maybe you could possibly help me out with the report that's due next week? I'm kind of struggling with it and would really appreciate any assistance you might be able to provide. Thanks a bunch!'"
+  },
+  {
+    "id": "instruction-06",
+    "role": "user",
+    "content": "Extract all the dates mentioned in this text and format them as YYYY-MM-DD: 'The conference will be held on March 15th, 2024. Registration closes on February 28, 2024. Early bird pricing is available until January 31st, 2024.'"
+  },
+  {
+    "id": "instruction-07",
+    "role": "user",
+    "content": "Create a step-by-step guide for making a peanut butter and jelly sandwich, using exactly 6 steps."
+  },
+  {
+    "id": "instruction-08",
+    "role": "user",
+    "content": "Sort the following words alphabetically and then reverse the order: elephant, butterfly, zebra, ant, dolphin, cat, bird, fish"
+  },
+  {
+    "id": "instruction-09",
+    "role": "user",
+    "content": "Convert this paragraph to bullet points: 'Customer service is essential for business success. It builds trust between companies and customers. Good customer service leads to customer loyalty and repeat business. It also generates positive word-of-mouth marketing. Additionally, it helps companies identify areas for improvement.'"
+  },
+  {
+    "id": "instruction-10",
+    "role": "user",
+    "content": "Write a formal business letter requesting a meeting, including all necessary components (date, address, salutation, body, closing, signature line)."
+  },
+  {
+    "id": "instruction-11",
+    "role": "user",
+    "content": "Create a simple recipe format for chocolate chip cookies, including ingredients list and numbered instructions."
+  },
+  {
+    "id": "instruction-12",
+    "role": "user",
+    "content": "Transform this sentence into passive voice: 'The chef prepared a delicious meal for the guests.'"
+  }
+]

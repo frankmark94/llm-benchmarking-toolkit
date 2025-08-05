@@ -1,0 +1,62 @@
+[
+  {
+    "id": "reasoning-01",
+    "role": "user",
+    "content": "If a train leaves Chicago at 3:00 PM traveling at 60 mph, and another train leaves New York at 4:00 PM traveling at 80 mph toward Chicago, and the distance between the cities is 790 miles, at what time will they meet?"
+  },
+  {
+    "id": "reasoning-02",
+    "role": "user",
+    "content": "A farmer has 17 sheep. All but 9 die. How many sheep are left alive? Explain your reasoning step by step."
+  },
+  {
+    "id": "reasoning-03",
+    "role": "user",
+    "content": "You have a 3-gallon jug and a 5-gallon jug. How can you measure exactly 4 gallons of water? Describe each step clearly."
+  },
+  {
+    "id": "reasoning-04",
+    "role": "user",
+    "content": "If it takes 6 machines 6 minutes to make 6 widgets, how long would it take 100 machines to make 100 widgets? Show your work."
+  },
+  {
+    "id": "reasoning-05",
+    "role": "user",
+    "content": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How much does the ball cost? Explain your reasoning carefully."
+  },
+  {
+    "id": "reasoning-06",
+    "role": "user",
+    "content": "You're in a room with three light switches. Each switch controls one of three light bulbs in another room. You can flip the switches as many times as you want, but you can only enter the other room once. How can you determine which switch controls which bulb?"
+  },
+  {
+    "id": "reasoning-07",
+    "role": "user",
+    "content": "If there are 49 dogs signed up for a dog show, and there are 36 more small dogs than large dogs, how many small dogs and how many large dogs are there?"
+  },
+  {
+    "id": "reasoning-08",
+    "role": "user",
+    "content": "A snail is at the bottom of a 30-foot well. Each day it climbs up 3 feet, but each night it slides back down 2 feet. How many days will it take for the snail to reach the top of the well?"
+  },
+  {
+    "id": "reasoning-09",
+    "role": "user",
+    "content": "You have 12 balls that look identical, but one is either heavier or lighter than the others. Using a balance scale only 3 times, how can you identify the different ball and determine if it's heavier or lighter?"
+  },
+  {
+    "id": "reasoning-10",
+    "role": "user",
+    "content": "If you fold a piece of paper in half 7 times, how many layers thick will it be? If the original paper is 0.1mm thick, what will be the total thickness?"
+  },
+  {
+    "id": "reasoning-11",
+    "role": "user",
+    "content": "A clock shows 3:15. What is the angle between the hour and minute hands? Show your calculation process."
+  },
+  {
+    "id": "reasoning-12",
+    "role": "user",
+    "content": "You're given two ropes that each take exactly 60 minutes to burn completely. The ropes burn unevenly - some parts burn faster than others. How can you measure exactly 45 minutes using these ropes?"
+  }
+]

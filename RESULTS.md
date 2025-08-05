@@ -1,6 +1,6 @@
 # GPT-4 vs GPT-OSS-20B: Local LLM Benchmarking Results
 
-**Evaluation Period**: August 2024  
+**Evaluation Period**: August 2025  
 **Hardware**: ARM-based Microsoft Surface Laptop (Snapdragon X Elite, 32GB RAM)  
 **Models**: OpenAI GPT-4 (API) vs GPT-OSS-20B quantized GGUF (LM Studio)  
 **Dataset**: 48 prompts across 4 categories (instruction, reasoning, creative, coding)
@@ -44,7 +44,7 @@
 
 ## 🏆 Performance Winners by Use Case
 
-### Choose GPT-4 When:
+### Choose GPT-4o When:
 - **Low latency required** (< 10s response time)
 - **Concise answers preferred** (summaries, quick Q&A)
 - **User-facing applications** (real-time chat, customer service)
